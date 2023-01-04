@@ -2,6 +2,6 @@
 
 print "I am arun kush\n ";
 
-print "<b>New Feature Added in Application</b> </br>";
+print "\n<b>New Feature Added in Application</b> </br>";
 
 ?>
